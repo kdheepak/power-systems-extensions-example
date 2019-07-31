@@ -1,0 +1,6 @@
+[deps]
+D3TypeTrees = "41994980-b535-5476-86a1-6733688e0e4a"
+PowerSystems = "bcd98974-b02a-5e2f-9ee0-a103f5c450dd"
+ReusePatterns = "a39b5e78-89b5-562b-97d8-70689129df0c"
+Suppressor = "fd094767-a336-5f1f-9728-57cf17d0bbfb"
+TimeSeries = "9e3dc215-6440-5c97-bce1-76c03772f85e"
